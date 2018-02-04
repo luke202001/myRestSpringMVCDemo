@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/edu/tju/rico/aspect/ExceptionAspect.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/edu/tju/rico/aspect/SecurityAspect.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/edu/tju/rico/authorization/DefaultTokenManager.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/edu/tju/rico/controller/TokenController.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/edu/tju/rico/exception/TokenException.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/edu/tju/rico/filter/CorsFilter.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/edu/tju/rico/response/Response.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/edu/tju/rico/utils/Constants.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/edu/tju/rico/utils/StringUtil.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/edu/tju/rico/utils/WebContextUtil.java" charset="GB2312" />
+  </component>
+</project>
